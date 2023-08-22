@@ -1,1 +1,1 @@
-### Hi there! My Name is Brian and I Love Development! 👋
+### Hi there! My name is Brian and i love development! 👋
