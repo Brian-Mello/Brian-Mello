@@ -1,9 +1,10 @@
-### Hey there! My name is Brian and i love development! 👋
+### Opa! Me chamo Brian e amo desenvolvimento!👋
 
 ## Sobre mim
 * Engenheiro de software 💻
 * 27 anos
 * Apaixonado por jogos 🎮
+* Comecei a codar com 13 anos
 
 
 ## Status
