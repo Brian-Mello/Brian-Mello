@@ -1,5 +1,6 @@
 ### Hey there! My name is Brian and i love development! 👋
 
+## Status
 <div>
   <a href="https://github.com/Brian-Mello"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brian-mello&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
@@ -7,7 +8,7 @@
 </div>
 
 ------------------------------------
-    
+## Tecnologias    
 <div style="display: inline_block">
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
@@ -23,7 +24,7 @@
 </div>
 
 ------------------------------------
-
+## Contato
 <div style="display: flex; gap: 8px;">
   <a href="https://github.com/Brian-Mello" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
