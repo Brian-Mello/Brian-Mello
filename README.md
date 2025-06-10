@@ -34,7 +34,7 @@
 * Inglês 🇺🇸
 
 ## Contato
-<div style="display: flex; gap: 8px;">
+<div>
   <a href="https://github.com/Brian-Mello" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
