@@ -1,4 +1,4 @@
-### Opa! Me chamo Brian e amo desenvolvimento!👋
+### Muito prazer e bem vindo ao meu perfil!👋
 
 ## Sobre mim
 * Engenheiro de software 💻
