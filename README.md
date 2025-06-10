@@ -1,5 +1,11 @@
 ### Hey there! My name is Brian and i love development! 👋
 
+## Sobre mim
+. Engenheiro de software 💻
+. 27 anos
+. Apaixonado por jogos 🎮
+
+
 ## Status
 <div>
   <a href="https://github.com/Brian-Mello"/>
@@ -21,6 +27,10 @@
   <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" />
   <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 </div>
+
+## Linguas
+. Português 🇧🇷
+. Inglês 🇺🇸
 
 ## Contato
 <div style="display: flex; gap: 8px;">
