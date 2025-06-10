@@ -19,6 +19,8 @@
   <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 </div>
 
+------------------------------------
+
 <div style="display: flex; gap: 8px;">
   <a href="https://github.com/Brian-Mello" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
