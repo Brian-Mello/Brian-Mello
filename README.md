@@ -20,7 +20,25 @@
 </div>
 
 <div>
+  <a href="https://github.com/Brian-Mello" target="_blank">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="github" />
+  </a>
+  <a href="https://www.linkedin.com/in/brian-de-paula-mello/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="instagram" />
+  </a>
+  <a href="https://www.facebook.com/brian.mello.37266" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="instagram" />
+  </a>
+  <a href="https://wa.me/21982681935?text=Gostaria%20de%20falar%20com%20você!" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="instagram" />
+  </a>
+  <a href="mailto:brianmmello@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="instagram" />
+  </a>
   <a href="https://www.instagram.com/brian_mello_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+  <a href="https://www.facebook.com/brian.mello.37266" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white" alt="instagram" />
   </a>
 </div>
