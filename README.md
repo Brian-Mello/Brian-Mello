@@ -1,9 +1,9 @@
 ### Hey there! My name is Brian and i love development! 👋
 
 ## Sobre mim
-. Engenheiro de software 💻
-. 27 anos
-. Apaixonado por jogos 🎮
+* Engenheiro de software 💻
+* 27 anos
+* Apaixonado por jogos 🎮
 
 
 ## Status
@@ -29,8 +29,8 @@
 </div>
 
 ## Linguas
-. Português 🇧🇷
-. Inglês 🇺🇸
+* Português 🇧🇷
+* Inglês 🇺🇸
 
 ## Contato
 <div style="display: flex; gap: 8px;">
