@@ -4,7 +4,7 @@
 
 ## Sobre mim
 * Engenheiro de software na Sem Parar 💻
-* 27 anos
+* 28 anos
 * Apaixonado por jogos 🎮
 * Comecei a codar com 13 anos
 * Casado
