@@ -1,7 +1,7 @@
 # Bot de Grid Trading Cripto — Design Spec
 
 **Data:** 2026-08-26  
-**Status:** Aguardando review  
+**Status:** Aprovada — MVP implementado  
 **Autor:** Brian-Mello + Cursor Agent
 
 ---

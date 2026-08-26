@@ -1,0 +1,24 @@
+mode: paper
+
+binance:
+  api_key: ${BINANCE_API_KEY}
+  api_secret: ${BINANCE_API_SECRET}
+  testnet: false
+
+global:
+  poll_interval_ms: 5000
+  max_total_capital_usdt: 500
+  kill_switch_drawdown_pct: 10
+
+pairs:
+  - symbol: BTC/USDT
+    lower_price: 90000
+    upper_price: 110000
+    grid_count: 10
+    capital_usdt: 300
+
+  - symbol: ETH/USDT
+    lower_price: 3000
+    upper_price: 4500
+    grid_count: 10
+    capital_usdt: 200

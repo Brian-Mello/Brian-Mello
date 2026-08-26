@@ -1,0 +1,37 @@
+{
+  "name": "grid-bot",
+  "version": "0.1.0",
+  "description": "Bot de grid trading spot multi-par na Binance",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "grid-bot": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "validate": "tsx src/index.ts validate --config config.example.yaml"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.7.0",
+    "ccxt": "^4.4.49",
+    "commander": "^12.1.0",
+    "pino": "^9.6.0",
+    "pino-pretty": "^13.0.0",
+    "yaml": "^2.7.0",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.12",
+    "@types/node": "^22.10.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8"
+  }
+}
