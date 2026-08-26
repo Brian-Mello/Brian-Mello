@@ -1,0 +1,11 @@
+{
+  "name": "Profile README",
+  "install": "cd tools/preview && npm install",
+  "terminals": [
+    {
+      "name": "readme-preview",
+      "command": "cd tools/preview && npm start"
+    }
+  ],
+  "ports": [4321]
+}
